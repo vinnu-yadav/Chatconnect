@@ -1,0 +1,6 @@
+{
+  "name": "ChatConnect",
+  "description": "A real-time messaging application with groups, contacts, and custom 6-digit IDs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
